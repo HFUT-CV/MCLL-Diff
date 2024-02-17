@@ -1,8 +1,6 @@
 # MCLL-Diff
 
-This is a Pytorch implement of MCLL-Diff
-
-Multi-conditional Low-Light Image Enhancement based on Diffusion Probabilistic Models.
+This is a Pytorch implement of "MCLL-Diff: Multi-conditional Low-Light Image Enhancement based on Diffusion Probabilistic Models."
 
 Ye Yu\*, Fengxin Chen, Jun Yi, Ting Zhang, Ji Zhao, and Jun Yu (* indicates Corresponding author)
 
