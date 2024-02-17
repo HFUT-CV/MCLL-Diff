@@ -2,7 +2,7 @@
 
 This is a Pytorch implement of MCLL-Diff
 
-Multi-conditional Low-Light Image Enhancement based on Diffusion Probabilistic Models
+Multi-conditional Low-Light Image Enhancement based on Diffusion Probabilistic Models.
 
 Ye Yu\*, Fengxin Chen, Jun Yi, Ting Zhang, Ji Zhao, and Jun Yu (* indicates Corresponding author)
 
@@ -20,4 +20,4 @@ NVM is captured in real nighttime streets with a digital camera or cell phone. I
 
 ## Dependencies and Installation
 
-Our code will be made publicly available
+Our code will be made publicly available.
