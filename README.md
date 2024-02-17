@@ -6,7 +6,7 @@ Ye Yu\*, Fengxin Chen, Jun Yi, Ting Zhang, Ji Zhao, and Jun Yu (* indicates Corr
 
 This repository contains the dataset and code for our paper. 
 
-# NVM Dataset for Nighttime Vehicle Recognition
+# NVM Dataset
 
 ## Description
 
@@ -14,8 +14,8 @@ NVM is captured in real nighttime streets with a digital camera or cell phone. I
 
 **!!!** We currently provide 100 sample images (./Images/), and all the data will be made public after accept.
 
-# Get Started
-
-## Dependencies and Installation
+# Low-light Image Enhancement
+## Get Started
+### Dependencies and Installation
 
 Our code will be made publicly available.
