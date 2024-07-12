@@ -2,7 +2,7 @@
 
 This is a Pytorch implement of "MCLL-Diff: Multi-conditional Low-Light Image Enhancement based on Diffusion Probabilistic Models."
 
-Ye Yu\*, Fengxin Chen, Jun Yi, Ting Zhang, Ji Zhao, and Jun Yu (* indicates Corresponding author)
+Fengxin Chen, Ye Yu\*, Jun Yi, Ting Zhang, Ji Zhao, and Jun Yu (* indicates Corresponding author)
 
 This repository contains the dataset and code for our paper. 
 
